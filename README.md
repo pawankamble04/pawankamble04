@@ -54,8 +54,8 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pawankamble04&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawankamble04&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawankamble04&theme=github" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawankamble04&theme=github" alt="Top languages" />
 </p>
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=pawankamble04&hide_border=true" alt="GitHub streak" />
