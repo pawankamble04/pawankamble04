@@ -27,6 +27,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding sticker" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Cat coding sticker" />
 </p>
 
 ## Recruiter Snapshot
